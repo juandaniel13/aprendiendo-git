@@ -1,0 +1,100 @@
+commit 7c341de5e23b854d099ec5f7ab195269847c897d
+Author: juanDaniel <juandanielrh13@gmail.com>
+Date:   Mon Aug 7 10:17:24 2023 -0500
+
+    Adding 2 paragraphs
+
+commit d430b4ef5915172946d9805e7137e3047c903e81
+Merge: d98bd6c 474c08d
+Author: juanDaniel <juandanielrh13@gmail.com>
+Date:   Mon Aug 7 10:14:29 2023 -0500
+
+    solving merge conflict on estaciones del año y fechas de inicio
+
+commit d98bd6c325d58a03ea3280dcc0f7c8670b944b79
+Author: juanDaniel <juandanielrh13@gmail.com>
+Date:   Mon Aug 7 09:58:29 2023 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 474c08dc1881d386a12ef8164f66cb7a83835960
+Author: juanDaniel <juandanielrh13@gmail.com>
+Date:   Mon Aug 7 09:58:29 2023 -0500
+
+    Agregando las estaciones del año
+
+commit 306c5d4411d176aa1da7db82c5aa1abd6c3aef35
+Merge: 7b131e8 2cdf19f
+Author: juanDaniel <juandanielrh13@gmail.com>
+Date:   Mon Aug 7 09:52:20 2023 -0500
+
+    Resolving merge conflict main/html on index.html document
+
+commit 2cdf19fdb8311c1102ce7c45636ae6a1455913d7
+Author: juanDaniel <juandanielrh13@gmail.com>
+Date:   Mon Aug 7 09:43:18 2023 -0500
+
+    adding index.js to index.html
+
+commit 7b131e8c026fde26ea8c2446d34dbc688c4b35d1
+Author: juanDaniel <juandanielrh13@gmail.com>
+Date:   Mon Aug 7 09:40:58 2023 -0500
+
+    Adding style.css to index.html
+
+commit e0e9cff36e90c30d65b13ccf92fc46b342681aa4
+Merge: 2008f7d 4eba501
+Author: juanDaniel <juandanielrh13@gmail.com>
+Date:   Mon Aug 7 09:30:45 2023 -0500
+
+    Merge branch 'js'
+
+commit 4eba5018db1e79fe76912b8c2c492d650a80570a
+Author: juanDaniel <juandanielrh13@gmail.com>
+Date:   Mon Aug 7 09:23:32 2023 -0500
+
+    Creating index.js
+
+commit 2008f7df23060d7597fa210761547c9d12752ac7
+Author: juanDaniel <juandanielrh13@gmail.com>
+Date:   Mon Aug 7 09:16:58 2023 -0500
+
+    creando style.css
+
+commit 1de6a7e46c3abdd9dc004850dd13314171a2c489
+Author: juanDaniel <juandanielrh13@gmail.com>
+Date:   Mon Aug 7 09:10:29 2023 -0500
+
+    Crating index.html file
+
+commit c147184d6fc60f1907f8dd24e27479285e8b4b82
+Author: juanDaniel <juandanielrh13@gmail.com>
+Date:   Mon Aug 7 08:49:56 2023 -0500
+
+    ignoring .exe files
+
+commit 9e86e6727b5fc9cd4a15986ad91de440a10fb7d1
+Author: juandaniel13 <70856277+juandaniel13@users.noreply.github.com>
+Date:   Sun Aug 6 18:20:50 2023 -0500
+
+    Create license.txt
+    
+    Creating respository's license
+
+commit a1550feae77cff7920cf2917ce79d515120c1e97
+Author: juanDaniel <juandanielrh13@gmail.com>
+Date:   Sun Aug 6 18:10:41 2023 -0500
+
+    Adding more conntent to README
+
+commit 3391c93092ddc70ac45402ad840435527b3e74ca
+Author: juanDaniel <juandanielrh13@gmail.com>
+Date:   Sun Aug 6 17:57:36 2023 -0500
+
+    Adding initial content to README
+
+commit cf905c119fd0e52c27902605eadaf3529f3becea
+Author: juanDaniel <juandanielrh13@gmail.com>
+Date:   Sun Aug 6 17:51:30 2023 -0500
+
+    First commit 🥵
